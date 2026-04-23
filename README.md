@@ -1,0 +1,2 @@
+# sql
+SQL ÇĞRENMEK İSTİYEN BİREYLER İÇİN ÇALIŞMA :D
